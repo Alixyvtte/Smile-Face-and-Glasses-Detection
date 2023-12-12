@@ -27,13 +27,13 @@ Each notebook includes:
 
 ***For smile face and 3D head pose estimation...***
 
-<img src="https://s2.loli.net/2023/12/12/C5NQlVfiAsFtJ3u.png" alt="image-20231212153127404.png" style="zoom:67%;" />
+<img src="https://s2.loli.net/2023/12/12/C5NQlVfiAsFtJ3u.png" alt="image-20231212153127404.png" style="zoom:50%;" />
 
 ***For advanced task: glasses detection and something fun...***
 
-<img src="https://s2.loli.net/2023/12/12/EwAYm7lWMIVtyno.png" alt="image-20231212153329735.png" style="zoom:67%;" />
+<img src="https://s2.loli.net/2023/12/12/EwAYm7lWMIVtyno.png" alt="image-20231212153329735.png" style="zoom:50%;" />
 
 #### Something **COOL!!**:smiley:
 
-<img src="https://s2.loli.net/2023/12/12/LqWfRcOlivNPpEn.png" alt="image-20231212153339985.png" style="zoom:67%;" />
+<img src="https://s2.loli.net/2023/12/12/LqWfRcOlivNPpEn.png" alt="image-20231212153339985.png" style="zoom:50%;" />
 
