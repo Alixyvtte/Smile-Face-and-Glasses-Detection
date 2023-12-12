@@ -2,7 +2,7 @@
 
 Smile face and glasses detection with deep convolutional neural networks, on [GENKI4K](https://inc.ucsd.edu/mplab/398/) dataset.
 
-This is the repo of the course **CBU5201 Machine Learning **mini-project coursework.
+This is the repo of the course **CBU5201 Machine Learning**mini-project coursework.
 
 *The mini-project has two separate components:*
 
