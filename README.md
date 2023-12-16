@@ -1,4 +1,4 @@
-# Smile-Face-Glasses-Detection
+# Smile-Face-and-Glasses-Detection
 
 Smile face and glasses detection with deep convolutional neural networks, on [GENKI4K](https://inc.ucsd.edu/mplab/398/) dataset.
 
